@@ -1,0 +1,21 @@
+{
+	"id": "b44359b5-2bc7-423d-b18f-c901f6d48d9c",
+	"name": "test",
+	"timestamp": "2021-01-06T06:41:08.559Z",
+	"collection_id": "3c6ce9e3-567a-4510-988c-8b389df38f1a",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [],
+	"count": 1,
+	"totalTime": 0,
+	"collection": {
+		"requests": [
+			{
+				"id": "2a0835c3-a8d6-4fdd-8536-95b32d75958b",
+				"method": "GET"
+			}
+		]
+	}
+}
